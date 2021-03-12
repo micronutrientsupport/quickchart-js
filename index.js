@@ -8,7 +8,7 @@ class QuickChart {
     this.apiKey = apiKey;
     this.accountId = accountId;
 
-    this.host = 'quickchart.io';
+    this.host = 'quickchart.micronutrient.support';
     this.protocol = 'https';
     this.baseUrl = `${this.protocol}://${this.host}`;
 
